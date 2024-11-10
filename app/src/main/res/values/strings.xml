@@ -1,7 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Asclepius</string>
-    <string name="camera_x">CameraX</string>
-    <string name="camera">Kamera</string>
+    <string name="camera_x" tools:keep="@string/camera_x">CameraX</string>
+    <string name="camera" tools:keep="@string/camera">Kamera</string>
     <string name="gallery">Galeri</string>
     <string name="analyze">Analyze</string>
     <string name="result">Hasil Analisis</string>

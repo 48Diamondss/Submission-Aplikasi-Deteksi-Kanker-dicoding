@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools" >
 
     <!-- For Android 14 (API 34) and above: -->
-    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" tools:targetApi="34" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" tools:targetApi="34"
+        tools:ignore="SelectedPhotoAccess" />
 
     <!-- For Android 10 to Android 13 (API 29 - API 33) -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
