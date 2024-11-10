@@ -15,4 +15,5 @@ class ImageClassifierHelper() {
         // TODO: mengklasifikasikan imageUri dari gambar statis.
     }
 
+    // test
 }
