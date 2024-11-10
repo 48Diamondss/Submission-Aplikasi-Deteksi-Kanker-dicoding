@@ -1,2 +1,2 @@
 # Submission-Aplikasi-Deteksi-Kanker-dicoding
-Ini adalah repository yang digunakan untuk latihan dan referensi ya
+Ini adalah repository yang digunakan untuk latihan, submission, dan referensi ya
